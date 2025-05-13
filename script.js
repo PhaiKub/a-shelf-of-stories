@@ -91,6 +91,12 @@ const data = {
       backgroundImage:"https://preview.redd.it/art-remote-jugyou-ni-nattara-class-ichi-no-bishoujo-to-v0-xvywdr4z0wm81.jpg?width=640&crop=smart&auto=webp&s=e08a32be6d09fffde8ef06161f13dab062950f77"
     },
     {
+      title: "A Reincarnation Romantic Comedy of a Hero and a Witch",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQShjaTqR_1qxI5jp7tORuDGXe3RmADZXjo-g&s",
+      color: "#afa294",
+      backgroundImage:"https://www.osemocphoto.com/collectManga/14631/162631/162631_20241207182445_2.jpg"
+    },
+    {
       title: "About That Time I Didn’t Want to Have a Matchmaking Interview, So I Set Some Impossible Conditions and Then My Classmate Showed Up",
       image: "https://www.mgeko.cc/media/manga_covers/omiai-shitakunakatta-no-de-muri-nandai-na.jpg",
       color: "#afa294",
@@ -127,6 +133,36 @@ const data = {
       backgroundImage:"https://i.pinimg.com/736x/a5/a3/ae/a5a3ae49329276d7c58b0416d1d82e46.jpg"
     },
     {
+      title: "I Was Immediately Mistaken for a Monster Genius Actor",
+      image: "https://i.namu.wiki/i/pDaJQ7-7Hrpd5ZuOWY72blDHa5iEyFFa12iX0EdbeotYHZS6m6bGIlD63htbxmy9JBpEVqIY6--d7m6nvSpAGw.webp",
+      color: "#afa294",
+      backgroundImage:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLKODZEffGVNJ1eWXX8G2cKsCJ-z218IFCZUeM-yEpPszLn0jGAxa4tPRuCSjEXwo9zqU&usqp=CAU"
+    },
+    {
+      title: "Mr Devourer Please Act Like a Final Boss",
+      image: "https://preview.redd.it/mr-devourer-please-act-like-a-final-boss-thoughts-on-this-v0-e22vo0kzo0ac1.jpeg?width=640&crop=smart&auto=webp&s=8cdabdc95a7231bc63b26741a7befd4c7b7a77e4",
+      color: "#afa294",
+      backgroundImage:"https://i.pinimg.com/736x/46/48/a2/4648a292bf5a822e1497591619d63fe0.jpg"
+    },
+    {
+      title: "Heart-Pounding Cute Poem",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1YSvGp4TnV3D-0Hh8T3V2uPi9o0hr6KgSGA&s",
+      color: "#afa294",
+      backgroundImage:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNAedDFAYvtCzRrCymShEAXllWvpTrqs_4Kg&s"
+    },
+    {
+      title: "I Took over The Academy With a Single Sashimi Knife",
+      image: "https://www.slow-manga.com/wp-content/uploads/2024/09/1.png",
+      color: "#afa294",
+      backgroundImage:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsi0ngziYdE12meU1Fo0DgG9Z-GWoOnVaaK-Y0LKgPorOtIPkCvwB1q-SUv_j7EjdMQ74&usqp=CAU"
+    },
+    {
+      title: "The Player Hides His Past",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWOYPpwUYB2ra-ItA5DVCgGuUq-ELN3vr25A&s",
+      color: "#afa294",
+      backgroundImage:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVJ6YexuFdPbHRPNwjK6DNMlHim0xIX8jeyg&s"
+    },
+    {
       title: "Fake Girlfriend? My Fault?",
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4C0QiZD9weU0RIwVqtAZbvD18Q6qdry3G3Q&s",
       color: "#afa294",
@@ -137,7 +173,7 @@ const data = {
       image: "https://image.readrealm.co/comics-cover/6013408e-0283-421e-8c78-7f3bbc8fe2d9.webp",
       color: "#afa294",
       backgroundImage:"https://i.pinimg.com/736x/d9/61/79/d961799bf729633007c349de8ad518c1.jpg"
-    }
+    },
   ],
   Completed: [
     {
@@ -219,6 +255,80 @@ const data = {
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSokO9f5PFYZEQTS5UO0atb35ahishsNC9aew&s",
       color: "#7b4d35",
       backgroundImage:"https://kenmei.b-cdn.net/covers/manga_series/122792/cover/open_graph-03c2888ab77efc353482ce7b63c35b83.jpeg"
+    },
+    {
+      title: "The Lazy Villainous Noble Married the Villainous Young Lady and Became the Most Fearsome Couple",
+      image: "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187963-9V0KozQUAWv8.jpg",
+      color: "#7b4d35",
+      backgroundImage:"https://blogger.googleusercontent.com/img/a/AVvXsEhbdqniZH_GClX9q0jYTUAGJTjafN0sTxuqJfep-8DSUfvgSvLRjLJAGxIDYa8ggVRDVNSau6imDCT1Htair1I-CJF7f8OfK5LOBPl3rW7gsNcHETwyrYQVfRSLNeMUri76MlchubvLEW11jWFuhI9aWi6-MOrIOszrR0YdCoIlPotVuDA8PeBm4RCvtmCM=s16000-rw"
+    },
+    {
+      title: "return player after 10000 years",
+      image: "https://preview.redd.it/player-who-returned-10-000-years-later-is-this-any-good-ive-v0-njjs7wpoifod1.jpeg?width=720&format=pjpg&auto=webp&s=112cd8078ae4a132446e95aae0153364104dc4e6",
+      color: "#7b4d35",
+      backgroundImage:"https://i.namu.wiki/i/Wdjz_JFJqXOxCxiBsTw7Qp86cm6ixXXQdbDuNB8DQzvHr7j6nUXsjSE6khUi3V2T7NIvjYaQNr4IIpOcxMOPpw.webp"
+    },
+  ],
+  Normal: [
+    {
+      title: "Theater Society (Circles)",
+      image: "https://i.pinimg.com/474x/e3/f7/bc/e3f7bc6ed1914ee961c1f8fe85293c1d.jpg",
+      color: "#7b4d35",
+      backgroundImage:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFYmj5hDDXRfScjHV6bQIfi2TedtnQdlKQkw&s"
+    },
+    {
+      title: "My Landlady Noona",
+      image: "https://i.pinimg.com/736x/af/41/68/af4168516044cc4137fd7f72ebe2310f.jpg",
+      color: "#7b4d35",
+      backgroundImage:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQEuoNptxLXbZwGAftWLoU1KLtHImWU-JocA&s"
+    },
+    {
+      title: "Stop Smoking",
+      image: "https://i.namu.wiki/i/57xdqazGo_vdP-K1SFcTCijbxQzTCegp0WdKxzO_qCQ0H8JpmRmwuviN3g6V8_BuKhLbWME0F7gwVUKB90pHhQ.webp",
+      color: "#7b4d35",
+      backgroundImage:"https://www.otonity.com/uploads/large/775ba534fe7eaae2c1cd5799752434c5.png"
+    },
+    {
+      title: "After Work Love Affairs",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKqI4p3sPwouqcTdQgSlh5S6dlko4ZWAQPyQ&s",
+      color: "#7b4d35",
+      backgroundImage:"https://static.zerochan.net/Dating.After.Work.full.4150122.jpg"
+    },
+    {
+      title: "Trapped in the Academy’s Eroge",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpNjK4mWmDRARyIkMrnSY4XSJgGMU-j5OQwIuKttGdxQFlXlOhCHluPQktA5skdqYBS4o&usqp=CAU",
+      color: "#7b4d35",
+      backgroundImage:"https://media.omegascans.org/file/zFSsXt/covers/fc2d542c-0a91-49d1-9324-2892f2326390.jpg"
+    },
+    {
+      title: "For Sale: Fallen Lady, Never Used",
+      image: "https://i.pinimg.com/736x/f5/a0/49/f5a0492daf36b6d33c6d51086465e357.jpg",
+      color: "#7b4d35",
+      backgroundImage:"https://s1.zerochan.net/For.Sale%3A.Fallen.Lady.Never.Used.600.4281983.jpg"
+    },
+    {
+      title: "Elf Who Likes To Be Humiliated",
+      image: "https://cdn.scribblehub.com/images/44/Elf-Who-Likes-To-Be-Humiliated_897518_1697842960.jpg",
+      color: "#7b4d35",
+      backgroundImage:"https://www.madoo-manga.com/wp-content/uploads/2024/10/Elf-Who-Likes-To-Be-Humiliated-as-Smart-Object-.webp"
+    },
+    {
+      title: "Isekai Dragondick Knight",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKWh1QnHeFCxMitLqjs--CXTipr4iPt9MxC8G8u5JHu4Em5VK9LrVCFRYUPLNXvrkNv_M&usqp=CAU",
+      color: "#7b4d35",
+      backgroundImage:"https://s1.zerochan.net/Queen.Ber.600.4240414.jpg"
+    },
+    {
+      title: "Sextudy Group",
+      image: "https://ilovedoujin.com/i/4488/doujin.jpg",
+      color: "#7b4d35",
+      backgroundImage:"https://preview.redd.it/sextudy-group-v0-0aegf7teqp3a1.jpg?width=640&crop=smart&auto=webp&s=553ad5b75fdff813f9fc4e100c33850cfb385ae8"
+    },
+    {
+      title: "I Have To Sleep With A Stranger?",
+      image: "https://cocomic.co/wp-content/uploads/2024/04/e6dfb57200d7e80cc80a0417d70912ab1393196c_999_1474_368417.jpeg",
+      color: "#7b4d35",
+      backgroundImage:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm-0Q9SWF2ExP-fg9jDwV8IQORE-5xASkdYA&s"
     },
   ]
 };
