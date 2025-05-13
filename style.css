@@ -246,41 +246,35 @@ body {
   border-radius: 10px;
   text-align: center;
   max-width: 90vw;
-  max-height: 90vh;
   box-shadow: 0 0 20px #000;
   position: relative;
   overflow: auto;
   display: flex;
   flex-direction: column;
   align-items: center;
+  max-height: 90vh;
+  overflow-y: auto;
 }
 
 .popup-content img {
+  width: 100%;
   max-width: 100%;
-  max-height: 60vh;
-  width: auto;
   height: auto;
+  max-height: 40vh; /* ลดลงจาก 60vh ให้เหลือพื้นที่กับข้อความ */
   object-fit: contain;
   border-radius: 10px;
 }
 
-@media (max-width: 600px) {
-  .popup-content h2 {
-    font-size: 1rem;
-  }
-}
-
-
 .popup-content h2 {
   margin-top: 15px;
   color: #fff;
-  font-family: Troubleside;
-  font-size: clamp(0.875rem, 0.8214285714rem + 0.2380952381vw, 1rem) !important;
-  word-wrap: break-word;
-  overflow-wrap: break-word;
-  white-space: normal;
-  max-width: 100%;
+  font-family: Troubleside, sans-serif;
+  font-size: 1rem;
   text-align: center;
+  word-break: break-word;
+  white-space: normal;
+  line-height: 1.3;
+  max-width: 100%;
 }
 
 
@@ -291,4 +285,19 @@ body {
   font-size: 30px;
   color: #fff;
   cursor: pointer;
+}
+
+@media (max-width: 480px) {
+  .popup-content {
+    padding: 15px;
+  }
+
+  .popup-content h2 {
+    font-size: 0.95rem;
+    line-height: 1.4;
+  }
+
+  .popup-content img {
+    max-height: 35vh;
+  }
 }
