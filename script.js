@@ -11,6 +11,11 @@ const data = {
       color: "#afa294"
     },
     {
+      title: "Did You Think You Could Live Normally Even in a World With a 1:5 Male-To-Female Ratio? ~ When Deeply Intense Feelings of the Girls Are Toyed With by an Oblivious Boy",
+      image: "https://i.namu.wiki/i/LcZ9GVow3c2jxQTDD-N04tsIPGxFt19C0t3-hRSqcjXGnL2rPf6n4ez-E6HFO19mhmkuhpctHUxOQcIfanDrbw.webp",
+      color: "#b0b6a9"
+    },
+    {
       title: "Why Don't You Make the Twins Your 'Girlfriend' Together?",
       image: "https://preview.redd.it/art-volume-1-cover-why-dont-you-make-the-twins-your-v0-v3dw9tsfqcjd1.jpeg?width=640&crop=smart&auto=webp&s=cbd30aa7af6fe2462ed510e3dc68dd16d6383b77",
       color: "#afa294"
