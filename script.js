@@ -19,6 +19,12 @@ const data = {
       backgroundImage:"https://pbs.twimg.com/media/GbvkhmZXIAgD6BS?format=jpg&name=4096x4096"
     },
     {
+      title: "My Older Sister's Friend",
+      image: "https://cdn.suruga-ya.com/database/pics_webp/game/503152735.jpg.webp",
+      color: "#b0b6a9",
+      backgroundImage:"https://scontent.fphs2-1.fna.fbcdn.net/v/t39.30808-6/481205386_620003114225681_8618852231882503439_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE9MDfsgH2ge9BJPlfRBXQwVrxzODkW-h1WvHM4ORb6HcHoz4J1u5hOfsqaCQSyywtEyJO7B0qqL0lmwLbsV526&_nc_ohc=F1Y-_Mt9tfoQ7kNvwGqmlD_&_nc_oc=Adn43zHs1tI9vNouH-cbmMJBav8oWowq-RfzdQxan1Jj7H1oeME4TLXn0_3_HURlogHjuZ7bfQsjP2BidLOFNFbX&_nc_zt=23&_nc_ht=scontent.fphs2-1.fna&_nc_gid=GCM03CXhzrP7UcWPOVYrCg&oh=00_AfItd1MG72e-_2hnLQI3CO2szM-Os4MzHAVGys3gLlj6NA&oe=682BAF24"
+    },
+    {
       title: "Why Don't You Make the Twins Your 'Girlfriend' Together?",
       image: "https://preview.redd.it/art-volume-1-cover-why-dont-you-make-the-twins-your-v0-v3dw9tsfqcjd1.jpeg?width=640&crop=smart&auto=webp&s=cbd30aa7af6fe2462ed510e3dc68dd16d6383b77",
       color: "#afa294",
