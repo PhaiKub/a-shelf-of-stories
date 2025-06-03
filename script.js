@@ -1,5 +1,6 @@
 const data = {
-  Reading: [
+  Reading: [],
+  Reading_manga: [
     {
       title: "I was Reincarnated as the Scumbag from a Netorare Manga, But the Heroine is Coming on to Me",
       image: "https://img.dlsite.jp/modpub/images2/work/books/BJ01023000/BJ01022944_img_main.jpg",
@@ -22,7 +23,7 @@ const data = {
       title: "My Older Sister's Friend",
       image: "https://cdn.suruga-ya.com/database/pics_webp/game/503152735.jpg.webp",
       color: "#b0b6a9",
-      backgroundImage:"https://scontent.fphs2-1.fna.fbcdn.net/v/t39.30808-6/481205386_620003114225681_8618852231882503439_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE9MDfsgH2ge9BJPlfRBXQwVrxzODkW-h1WvHM4ORb6HcHoz4J1u5hOfsqaCQSyywtEyJO7B0qqL0lmwLbsV526&_nc_ohc=F1Y-_Mt9tfoQ7kNvwGqmlD_&_nc_oc=Adn43zHs1tI9vNouH-cbmMJBav8oWowq-RfzdQxan1Jj7H1oeME4TLXn0_3_HURlogHjuZ7bfQsjP2BidLOFNFbX&_nc_zt=23&_nc_ht=scontent.fphs2-1.fna&_nc_gid=GCM03CXhzrP7UcWPOVYrCg&oh=00_AfItd1MG72e-_2hnLQI3CO2szM-Os4MzHAVGys3gLlj6NA&oe=682BAF24"
+      backgroundImage:"https://i.redd.it/news-the-cutest-girl-closest-to-me-my-older-sisters-friend-v0-9iik8xilqmac1.png?width=2048&format=png&auto=webp&s=0519caaae61686a4d590ccae6c00caa19eee988c"
     },
     {
       title: "Why Don't You Make the Twins Your 'Girlfriend' Together?",
@@ -76,7 +77,7 @@ const data = {
       title: "The Babe at My Back Has Her Eye on Me. I'm Done For",
       image: "https://i0.wp.com/c.bookwalker.jp/coverImage_419356ff429b4aaea4255464a76cb252.jpg?ssl=1",
       color: "#afa294",
-      backgroundImage:"https://scontent.fphs2-1.fna.fbcdn.net/v/t39.30808-6/486188893_693027583280847_3486680590607477209_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGn-EWqjWikmNXOhKKv6NbtIKwGr3SrBZggrAavdKsFmPvv1fJ4_hQfPcBGx3kPNA3Ub_g6-JXLRrd0qjZM57g0&_nc_ohc=9v0LrzU6R7IQ7kNvwGNo3_o&_nc_oc=AdmcOW16ek8mqKQ7ea7jE-0Va8KRGJL_7kiv4yNxf9fRK_ew5pimfVKKLVxOYEKIwm3EJWNX2tpVPmPeX4ZH5kpY&_nc_zt=23&_nc_ht=scontent.fphs2-1.fna&_nc_gid=kCwJAoMk7iH114moKfVzAA&oh=00_AfKeQW9jjsV2DoFDhoYSs5dHli8h5Yh4RqfdI_el2h7XSg&oe=6828C4D9"
+      backgroundImage:"https://preview.redd.it/a-smile-to-protect-original-v0-paeg8yg4st591.jpg?width=640&crop=smart&auto=webp&s=078797e57fc3a1c24f40ffe9f8489af81f3dddea"
     },
     {
       title: "Since I’ve Entered the World of Romantic Comedy Manga, I’ll Do My Best to Make the Losing Heroine Happy",
@@ -120,6 +121,8 @@ const data = {
       color: "#afa294",
       backgroundImage:"https://i2.wp.com/zetrotranslation.com/wp-content/uploads/2023/08/peakpx-4.jpg"
     },
+  ],
+  Reading_Manhwa:[
     {
       title: "SSS-Class Suicide Hunter",
       image: "https://preview.redd.it/raviel-ivansia-the-lady-silver-lily-of-the-sss-class-v0-cyl7qs4icmyc1.jpg?width=640&crop=smart&auto=webp&s=2466434dd7b269a8afaa94a4cdbde3959c70b04c",
@@ -168,6 +171,8 @@ const data = {
       color: "#afa294",
       backgroundImage:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVJ6YexuFdPbHRPNwjK6DNMlHim0xIX8jeyg&s"
     },
+  ],
+    Reading_Manhua:[
     {
       title: "Fake Girlfriend? My Fault?",
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4C0QiZD9weU0RIwVqtAZbvD18Q6qdry3G3Q&s",
@@ -181,7 +186,8 @@ const data = {
       backgroundImage:"https://i.pinimg.com/736x/d9/61/79/d961799bf729633007c349de8ad518c1.jpg"
     },
   ],
-  Completed: [
+  Completed: [],
+  Completed_Manga:[
     {
       title: "Kaguya-sama wa Kokurasetai",
       image: "https://i.redd.it/jy2erqldg33a1.jpg",
@@ -218,6 +224,8 @@ const data = {
       color: "#afa294",
       backgroundImage:"https://pbs.twimg.com/media/FSGGlJSaUAAPUJY.jpg"
     },
+  ],
+  Completed_Manhwa:[
     {
       title: "Webtoon Character Na Kang Lim",
       image: "https://i.namu.wiki/i/HiIb_pUxnwRp7yFxvgFch1ZQHSjBS7ztEU04va232KZMTnjny9VaMS3uqvlRAQN9ZwqgAlerBJHlt-K6YByCAA.webp",
@@ -225,13 +233,25 @@ const data = {
       backgroundImage:"https://pbs.twimg.com/media/GSoRfqvbIAA_xum?format=jpg&name=large"
     }
   ],
-  Planning: [
+  Completed_manhua:[
+
+  ],
+  Planning: [],
+  Planning_manga:[
     {
       title: "Tune In to the Midnight Heart",
       image: "https://m.media-amazon.com/images/I/91K9WWl3esL._AC_UF1000,1000_QL80_.jpg",
       color: "#7b4d35",
       backgroundImage:"https://preview.redd.it/for-some-reason-i-have-a-feeling-that-either-rikka-nene-or-v0-z4ldejrmfc0f1.png?width=640&crop=smart&auto=webp&s=615150ccea70be2a4c46635e1040207b3dbf6714"
     },
+    {
+      title: "The Lazy Villainous Noble Married the Villainous Young Lady and Became the Most Fearsome Couple",
+      image: "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187963-9V0KozQUAWv8.jpg",
+      color: "#7b4d35",
+      backgroundImage:"https://blogger.googleusercontent.com/img/a/AVvXsEhbdqniZH_GClX9q0jYTUAGJTjafN0sTxuqJfep-8DSUfvgSvLRjLJAGxIDYa8ggVRDVNSau6imDCT1Htair1I-CJF7f8OfK5LOBPl3rW7gsNcHETwyrYQVfRSLNeMUri76MlchubvLEW11jWFuhI9aWi6-MOrIOszrR0YdCoIlPotVuDA8PeBm4RCvtmCM=s16000-rw"
+    },
+  ],
+  Planning_manhwa:[
     {
       title: "A Villain's Will to Survive",
       image: "https://preview.redd.it/a-villains-will-to-survive-is-this-really-worth-all-the-hype-v0-r4weqnv0keue1.png?width=1080&crop=smart&auto=webp&s=46a92c1e996283fd85e118ee985aac59401a83f4",
@@ -263,18 +283,13 @@ const data = {
       backgroundImage:"https://kenmei.b-cdn.net/covers/manga_series/122792/cover/open_graph-03c2888ab77efc353482ce7b63c35b83.jpeg"
     },
     {
-      title: "The Lazy Villainous Noble Married the Villainous Young Lady and Became the Most Fearsome Couple",
-      image: "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187963-9V0KozQUAWv8.jpg",
-      color: "#7b4d35",
-      backgroundImage:"https://blogger.googleusercontent.com/img/a/AVvXsEhbdqniZH_GClX9q0jYTUAGJTjafN0sTxuqJfep-8DSUfvgSvLRjLJAGxIDYa8ggVRDVNSau6imDCT1Htair1I-CJF7f8OfK5LOBPl3rW7gsNcHETwyrYQVfRSLNeMUri76MlchubvLEW11jWFuhI9aWi6-MOrIOszrR0YdCoIlPotVuDA8PeBm4RCvtmCM=s16000-rw"
-    },
-    {
       title: "return player after 10000 years",
       image: "https://preview.redd.it/player-who-returned-10-000-years-later-is-this-any-good-ive-v0-njjs7wpoifod1.jpeg?width=720&format=pjpg&auto=webp&s=112cd8078ae4a132446e95aae0153364104dc4e6",
       color: "#7b4d35",
       backgroundImage:"https://i.namu.wiki/i/Wdjz_JFJqXOxCxiBsTw7Qp86cm6ixXXQdbDuNB8DQzvHr7j6nUXsjSE6khUi3V2T7NIvjYaQNr4IIpOcxMOPpw.webp"
     },
   ],
+  Planning_Manhua:[],
   Normal: [
     {
       title: "Theater Society (Circles)",
@@ -366,14 +381,6 @@ function createSection(title, items) {
 
       popupImage.src = item.backgroundImage;
       popupTitle.textContent = item.title;
-
-      // ตรวจสอบว่า backgroundImage มีค่าหรือไม่ และตั้งค่าให้กับ popup
-      if (item.backgroundImage) {
-        popupLeft.style.backgroundImage = `url(${item.backgroundImage})`;
-      } else {
-        popupLeft.style.backgroundImage = ""; // ถ้าไม่มี backgroundImage กำหนดเป็นค่าว่าง
-      }
-
       popup.classList.remove("hidden");
     });
   });
