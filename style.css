@@ -253,7 +253,7 @@ body {
   border-radius: 10px;
   text-align: center;
   text-wrap: wrap;
-  max-width: 40vw;
+  max-width: 50vw;
   box-shadow: 0 0 20px #000;
   position: relative;
   overflow: auto;
@@ -268,7 +268,7 @@ body {
   width: 100%;
   max-width: 100%;
   height: auto;
-  max-height: 40vh; /* ลดลงจาก 60vh ให้เหลือพื้นที่กับข้อความ */
+  max-height: 50vh; /* ลดลงจาก 60vh ให้เหลือพื้นที่กับข้อความ */
   object-fit: contain;
   border-radius: 10px;
 }
