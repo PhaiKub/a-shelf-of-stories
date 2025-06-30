@@ -121,6 +121,12 @@ const data = {
       color: "#afa294",
       backgroundImage:"https://i2.wp.com/zetrotranslation.com/wp-content/uploads/2023/08/peakpx-4.jpg"
     },
+    {
+      title: "Oversummoned, Overpowered, and Over It!",
+      image: "https://www.slow-manga.com/wp-content/uploads/2025/06/Oversummoned-Overpowered-and-Over-It.webp",
+      color: "#afa294",
+      backgroundImage:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqCiK60g22hvBhgHpZcrZTfWTSZI2rjV7U5Z-h_R-aj6a2PPYUhblBgpi92scQ4-JTddM&usqp=CAU"
+    }
   ],
   Reading_Manhwa:[
     {
@@ -170,6 +176,12 @@ const data = {
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWOYPpwUYB2ra-ItA5DVCgGuUq-ELN3vr25A&s",
       color: "#afa294",
       backgroundImage:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVJ6YexuFdPbHRPNwjK6DNMlHim0xIX8jeyg&s"
+    },
+    {
+      title: "I Became the Tyrant of a Defence Game",
+      image: "https://6ed7f732781d5145ac367958b98f24ef.cdn.bubble.io/cdn-cgi/image/w=,h=,f=auto,dpr=1,fit=contain/f1737595888248x987064403546911900/IMG_2616.JPG",
+      color: "#afa294",
+      backgroundImage:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCBLkp2dOIQRotkYeRqYTtM8D7Qz86HugMSKUSvDhTfPbFgv7YFWc3yc2S6UCcjdrkeqE&usqp=CAU"
     },
   ],
     Reading_Manhua:[
@@ -288,6 +300,12 @@ const data = {
       color: "#7b4d35",
       backgroundImage:"https://i.namu.wiki/i/Wdjz_JFJqXOxCxiBsTw7Qp86cm6ixXXQdbDuNB8DQzvHr7j6nUXsjSE6khUi3V2T7NIvjYaQNr4IIpOcxMOPpw.webp"
     },
+    {
+      title: "Swordmaster’s Youngest Son",
+      image: "https://i.redd.it/lhsapcsowumb1.jpg",
+      color: "#7b4d35",
+      backgroundImage:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROzh6EFGCUoEdEtogNEJuxhtds60yAm0VXsw&s"
+    }
   ],
   Planning_Manhua:[],
   Normal: [
@@ -347,9 +365,15 @@ const data = {
     },
     {
       title: "I Have To Sleep With A Stranger?",
-      image: "https://cocomic.co/wp-content/uploads/2024/04/e6dfb57200d7e80cc80a0417d70912ab1393196c_999_1474_368417.jpeg",
+      image: "https://www.madoo-manga.com/wp-content/uploads/2024/11/I-Have-To-Sleep-With-A-Stranger-as-Smart-Object-.webp",
       color: "#7b4d35",
       backgroundImage:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm-0Q9SWF2ExP-fg9jDwV8IQORE-5xASkdYA&s"
+    },
+    {
+      title: "Wireless Onahole",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI75ysjQP5zgeY8GToVmrjDF5Dmpmn2OTXoQ&s",
+      color: "#7b4d35",
+      backgroundImage:"https://pbs.twimg.com/media/Gnl4zm3aMAQkQFB.jpg:large"
     },
   ]
 };
