@@ -154,6 +154,12 @@ const data = {
       backgroundImage:"https://i.pinimg.com/736x/a5/a3/ae/a5a3ae49329276d7c58b0416d1d82e46.jpg"
     },
     {
+      title: "The Max Level Hero has Returned!",
+      image: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1608556718i/56358488.jpg",
+      color: "#afa294",
+      backgroundImage:"https://i.ytimg.com/vi/85gxeI7MEno/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCxzwf5Nvm5U14afNvOY5Uty71ibQ"
+    },
+    {
       title: "I Was Immediately Mistaken for a Monster Genius Actor",
       image: "https://i.namu.wiki/i/pDaJQ7-7Hrpd5ZuOWY72blDHa5iEyFFa12iX0EdbeotYHZS6m6bGIlD63htbxmy9JBpEVqIY6--d7m6nvSpAGw.webp",
       color: "#afa294",
